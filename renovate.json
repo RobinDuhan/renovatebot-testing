@@ -9,5 +9,6 @@
   ],
   "docker": {
     "enabled": true
-  }
+  },
+  "renovateFork": true
 }
